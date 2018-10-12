@@ -1,0 +1,55 @@
+.glyphicon-camera {
+	font-size: 34px;
+	margin: 8px 0 0 5px;
+}
+
+.jumbotron {
+	background-image: url(assets/images/bg2.jpg);
+	background-size: cover;
+	background-position: bottom;
+	height: 450px;
+	color: white;
+	text-align: center;
+
+}
+.container.header {
+	width: 600px;
+}
+
+.jumbotron p {
+	font-size: 17px;
+}
+
+.btn {
+	background: white;
+	color: black;
+}
+
+.thumbnail {
+	text-align: center;
+	border: 10px solid #ddd;
+	border-radius: 15px;
+	padding: 0;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.cam {
+	font-size: 30px;
+	margin: 10px;
+}
+
+.nomeimportanadavieja {
+	text-align: center;
+	border: 1px solid #ddd ;
+
+}
+
+.igualmeimportaunpoco {
+	background-color: #eee;
+	border: 1px #ddd solid;
+	padding: 8px;
+	font-weight: bolder;
+	font-size: 11px;
+
+}
